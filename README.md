@@ -13,9 +13,12 @@
 ### Phân loại
 *Được phân loại thành 3 nhóm theo mục đích sử dụng:*
 
-- Nhóm Creational
-- Nhóm Structural
-- Nhóm Behavioral
+- Nhóm Creational: cung cấp các cơ chế tạo đối tượng để tăng tính linh hoạt và tái sử dụng mã hiện có.
+(Factory Method, Abstract Fatory, Builder, Prototype, Singleton)
+- Nhóm Structural: giải thích cách tập hợp các đối tượng và lớp thành các cấu trúc lớn hơn, trong khi vẫn giữ cho cấu trúc linh hoạt và hiệu quả.
+(Apdater, Bridge, Composite, Decorator, Facede, Flyweight, Proxy)
+- Nhóm Behavioral: quan tâm đến việc giao tiếp hiệu quả và phân công nhiệm vụ giữa các đối tượng.
+(Chain Of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template method, Visitor)
 # Chi tiết
 ## Creational Pattern (Nhóm khởi tạo)
 ### Singleton
